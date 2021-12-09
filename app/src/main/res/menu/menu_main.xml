@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/miOpen"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_folder_open"
+        android:title="Open GPX file"></item>
+    <item
+        android:id="@+id/miExit"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@drawable/ic_action_logout"
+        android:title="Exit"></item>
+</menu>

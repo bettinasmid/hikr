@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="bk_hikr" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<metadata>
+		<name>test track</name>
+		<desc>test track</desc>
+	</metadata>
+<trk>
+  <name>testtrack</name>
+<trkseg>
+<trkpt lat="47.421690" lon="19.214975">
+        <ele>0</ele>
+      </trkpt>
+<trkpt lat="47.421656" lon="19.215165">
+        <ele>0</ele>
+      </trkpt>
+<trkpt lat="47.421253" lon="19.214806"> 
+        <ele>0</ele>
+      </trkpt>
+<trkpt lat="47.420865" lon="19.214436"> 
+        <ele>0</ele>
+      </trkpt>
+<trkpt lat="47.420397" lon="19.215182"> 
+        <ele>0</ele>
+      </trkpt>
+<trkpt lat="47.419762" lon="19.216298"> 
+        <ele>0</ele>
+      </trkpt>
+<trkpt lat="47.420579" lon="19.217312"> 
+        <ele>0</ele>
+      </trkpt>
+<trkpt lat="47.421116" lon="19.217977">
+        <ele>0</ele>
+      </trkpt>
+<trkpt lat="47.421225" lon="19.217044"> 
+        <ele>0</ele>
+      </trkpt>
+<trkpt lat="47.421181" lon="19.216508">
+        <ele>0</ele>
+      </trkpt>
+<trkpt lat="47.421232" lon="19.215585"> 
+        <ele>0</ele>
+      </trkpt>
+<trkpt lat="47.421577" lon="19.214984"> 
+        <ele>0</ele>
+      </trkpt>
+</trkseg>
+</trk>
+</gpx>
+
+
+

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ticofab.androidgpxparser:parser:1.6.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6086de37717e5687fcdb07677381836d/jetified-parser-1.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6086de37717e5687fcdb07677381836d/jetified-parser-1.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6086de37717e5687fcdb07677381836d/jetified-parser-1.6.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ticofab.androidgpxparser/parser/1.6.0/3832e03d3d0b4b30e8425875862788d015a42bfc/parser-1.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ticofab.androidgpxparser/parser/1.6.0/5f7d1c10dfad1d81e6282f7f80fb3157dd22051f/parser-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HIKR</string>
+    <string name="title_map">Track overview</string>
+    <string name="title_elevation">Elevation</string>
+    <string name="menu_open">Open GPX file</string>
+    <string name="btn_open">Open</string>
+    <string name="btn_start">Start tracking</string>
+    <string name="storage_access_permission_denied_warning">The app cannot operate without storage access.</string>
+    <string name="call_permission_explanation">In order to be able to load GPX files from the phone\'s external storage, the application needs external storage access permission.</string>
+    <string name="proceed">Proceed</string>
+    <string name="exit">Exit</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="distance_label">Distance: %1$s km</string>
+    <string name="starting_point_label">Starting point</string>
+</resources>
